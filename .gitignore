@@ -1,2 +1,6 @@
 google-key.json
 .ipynb_checkpoints/
+models/
+model1/
+*.h5
+.DS_Store
